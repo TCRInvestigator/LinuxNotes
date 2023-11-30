@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Install command-line packages on Mac from compressed files
 
 Navigate to directory with downloaded compressed file by
